@@ -64,5 +64,5 @@ var Resume = function(window, document) {
     init();
 
 };
-
+ 
 new Resume(window, document);
