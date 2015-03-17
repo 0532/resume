@@ -1,5 +1,4 @@
 var Resume = function(window, document) {
-
     var start = NaN;
     var dest = NaN;
     var hash;
