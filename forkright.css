@@ -34,7 +34,7 @@
 
 @media screen and (min-width: 800px) {
   #fork-on-github {
-    position: absolute;
+    position: fixed;
     display: block;
     top: 0;
     right: 0;
