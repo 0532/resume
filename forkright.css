@@ -1,6 +1,6 @@
-#fork-on-coding {
+#fork-on-github {
   display: none; }
-  #fork-on-coding a {
+  #fork-on-github a {
     background: #222;
     color: #fff;
     text-decoration: none;
@@ -16,10 +16,10 @@
     -ms-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s; }
-    #fork-on-coding a:hover {
+    #fork-on-github a:hover {
       background: #D24D20;
       color: #fff; }
-    #fork-on-coding a:before, #fork-on-coding a:after {
+    #fork-on-github a:before, #fork-on-github a:after {
       content: "";
       width: 100%;
       display: block;
@@ -28,12 +28,12 @@
       left: 0;
       height: 1px;
       background: #fff; }
-    #fork-on-coding a:after {
+    #fork-on-github a:after {
       bottom: 1px;
       top: auto; }
 
 @media screen and (min-width: 800px) {
-  #fork-on-coding {
+  #fork-on-github {
     position: absolute;
     display: block;
     top: 0;
@@ -42,7 +42,7 @@
     overflow: hidden;
     height: 190px;
     z-index: 9999; }
-    #fork-on-coding a {
+    #fork-on-github a {
       width: 190px;
       position: absolute;
       top: 40px;
